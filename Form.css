@@ -1,0 +1,21 @@
+.btn {
+  margin: 0px 10px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #1485ee;
+  border: none;
+}
+
+.btn {
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
